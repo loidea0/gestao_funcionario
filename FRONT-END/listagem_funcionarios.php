@@ -58,7 +58,7 @@ $departamento = callapi($mainUrl. "provincia", "GET");
             <!-- ============ Body content start ============= -->
             <div class="main-content">
                 <div class="breadcrumb">
-                    <h1 class="font-weight-bold">Lista de Funcionarios</h1>
+                    <h1 class="font-weight-bold">Lista de funcionarios</h1>
                     <!-- <ul>
                         <li><a href="#">Home</a></li>
                         <li>Buttons</li>
