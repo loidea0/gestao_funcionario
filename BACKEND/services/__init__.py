@@ -1,0 +1,7 @@
+from services.FuncionarioService import FuncionarioService
+from services.ProvinciaService import ProvinciaService
+from services.DistritoService import DistritoService
+from services.DepartamentoService import DepartamentoService
+from services.PresencaService import PresencaService
+from services.DashboardService import DashboardService
+from services.AvaliacaoDesempenhoService import AvaliacaoDesempenhoService
